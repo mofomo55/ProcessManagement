@@ -1,0 +1,18 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/ProcessManagment/.vs/ProcessManagment/DesignTimeBuild/.dtbcache.v2
+/ProcessManagment/.vs/ProcessManagment/v17/.suo
+/ProcessManagment/.vs/ProcessManagment/v17/DocumentLayout.backup.json
+/ProcessManagment/ProcessManagment/bin/Debug/net9.0/ProcessManagment.dll
+/ProcessManagment/ProcessManagment/bin/Debug/net9.0/ProcessManagment.exe
+/ProcessManagment/ProcessManagment/bin/Debug/net9.0/ProcessManagment.pdb
+/ProcessManagment/ProcessManagment/obj/Debug/net9.0/ref/ProcessManagment.dll
+/ProcessManagment/ProcessManagment/obj/Debug/net9.0/refint/ProcessManagment.dll
+/ProcessManagment/ProcessManagment/obj/Debug/net9.0/apphost.exe
+/ProcessManagment/ProcessManagment/obj/Debug/net9.0/ProcessManagment.AssemblyInfo.cs
+/ProcessManagment/ProcessManagment/obj/Debug/net9.0/ProcessManagment.AssemblyInfoInputs.cache
+/ProcessManagment/ProcessManagment/obj/Debug/net9.0/ProcessManagment.dll
+/ProcessManagment/ProcessManagment/obj/Debug/net9.0/ProcessManagment.pdb
+/ProcessManagment/ProcessManagment/obj/Debug/net9.0/ProcessManagment.sourcelink.json
