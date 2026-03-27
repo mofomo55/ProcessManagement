@@ -28,7 +28,7 @@ namespace ProcessManagment.Persistence.Repositories
         public async Task UpdateStatus(int id, string status)
         {
             int affected = await _context.Database.ExecuteSqlInterpolatedAsync(
-            $"UPDATE BackgroundTasks SET Status = {status} WHERE Id = {id}");
+            $"UPDATE BackgroundTasks SET Status = {status},ProcessedAt = NOW() WHERE Id = {id}");
 
         }
 
