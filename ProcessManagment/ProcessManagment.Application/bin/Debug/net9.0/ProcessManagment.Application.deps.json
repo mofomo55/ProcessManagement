@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ProcessManagment.Application/1.0.0": {
+        "dependencies": {
+          "ProcessManagment.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ProcessManagment.Application.dll": {}
+        }
+      },
+      "ProcessManagment.Domain/1.0.0": {
+        "runtime": {
+          "ProcessManagment.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProcessManagment.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProcessManagment.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

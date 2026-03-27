@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Projects\\ProcessManagment\\ProcessManagment\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E38B1BBB-E082-493D-A64F-9A1DCA41621D}|ProcessManagment\\ProcessManagment.csproj|e:\\projects\\processmanagment\\processmanagment\\processmanagment\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38B1BBB-E082-493D-A64F-9A1DCA41621D}|ProcessManagment\\ProcessManagment.csproj|solutionrelative:processmanagment\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38B1BBB-E082-493D-A64F-9A1DCA41621D}|ProcessManagment\\ProcessManagment.csproj|e:\\projects\\processmanagment\\processmanagment\\processmanagment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E38B1BBB-E082-493D-A64F-9A1DCA41621D}|ProcessManagment\\ProcessManagment.csproj|solutionrelative:processmanagment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38B1BBB-E082-493D-A64F-9A1DCA41621D}|ProcessManagment\\ProcessManagment.csproj|e:\\projects\\processmanagment\\processmanagment\\processmanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38B1BBB-E082-493D-A64F-9A1DCA41621D}|ProcessManagment\\ProcessManagment.csproj|solutionrelative:processmanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +35,43 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\ProcessManagment\\ProcessManagment\\ProcessManagment\\Program.cs",
+              "RelativeDocumentMoniker": "ProcessManagment\\Program.cs",
+              "ToolTip": "E:\\Projects\\ProcessManagment\\ProcessManagment\\ProcessManagment\\Program.cs",
+              "RelativeToolTip": "ProcessManagment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T00:49:37.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "E:\\Projects\\ProcessManagment\\ProcessManagment\\ProcessManagment\\Worker.cs",
+              "RelativeDocumentMoniker": "ProcessManagment\\Worker.cs",
+              "ToolTip": "E:\\Projects\\ProcessManagment\\ProcessManagment\\ProcessManagment\\Worker.cs",
+              "RelativeToolTip": "ProcessManagment\\Worker.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T00:40:20.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Projects\\ProcessManagment\\ProcessManagment\\ProcessManagment\\appsettings.json",
+              "RelativeDocumentMoniker": "ProcessManagment\\appsettings.json",
+              "ToolTip": "E:\\Projects\\ProcessManagment\\ProcessManagment\\ProcessManagment\\appsettings.json",
+              "RelativeToolTip": "ProcessManagment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-23T23:13:12.399Z"
             },
             {
               "$type": "Bookmark",
