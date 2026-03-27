@@ -11,5 +11,11 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.13" />
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.22.1" />
+    <PackageReference Include="UmbracoCms.Core" Version="8.18.15" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProcessManagment.Application\ProcessManagment.Application.csproj" />
+    <ProjectReference Include="..\ProcessManagment.Persistence\ProcessManagment.Persistence.csproj" />
   </ItemGroup>
 </Project>
