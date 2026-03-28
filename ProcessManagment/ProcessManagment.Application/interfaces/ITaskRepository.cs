@@ -11,5 +11,7 @@ namespace ProcessManagment.Application.interfaces
     {
         public  Task<List<BackgroundTasks>> GetTasks(string status);
         public Task UpdateStatus(int id, string status);
+
+        public Task ExcuteSQL(string SQL,IEnumerable<object?> parameters);
     }
 }
