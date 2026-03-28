@@ -32,5 +32,10 @@ namespace ProcessManagment.Persistence.Repositories
 
         }
 
+        public async Task ExcuteSQL(string SQL,IEnumerable<object?> parameters)
+        {
+            _context.Database.ExecuteSqlRaw(SQL, parameters);
+        }
+
     }
 }
